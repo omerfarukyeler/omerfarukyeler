@@ -6,7 +6,6 @@ Software Tester.
 
 Graduation
 
-Mechanical Engineer 
-
 Software Tester | Infotech Academy 
 
+Mechanical Engineer | Selcuk Unıversty
