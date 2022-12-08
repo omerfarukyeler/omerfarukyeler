@@ -1,6 +1,13 @@
-### Hi!Welcome to my github page. 👋
+Hi! Welcome to my github page. 👋
+I'm Ömer Faruk Yeler. 
+Software Tester.
 
- Here are some ideas to get you started:
+Profile Views
 
-- 🌱 I’m currently learning Java
+Omer's GitHub Stats
+
+Graduation
+Mechanical Engineer 
+
+Software Tester | Infotech Academy 
 
