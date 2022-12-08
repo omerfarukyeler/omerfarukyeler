@@ -8,4 +8,4 @@ Graduation
 
 Software Tester | Infotech Academy 
 
-Mechanical Engineer | Selcuk Unıversty
+Mechanical Engineer | Selcuk Unıversity
