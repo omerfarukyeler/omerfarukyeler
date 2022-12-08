@@ -1,8 +1,8 @@
 Hi! Welcome to my github page. 👋
-I'm Ömer Faruk Yeler. 
-Software Tester.
 
-Profile Views
+I'm Ömer Faruk Yeler. 
+
+Software Tester.
 
 Omer's GitHub Stats
 
