@@ -4,8 +4,6 @@ I'm Ömer Faruk Yeler.
 
 Software Tester.
 
-Omer's GitHub Stats
-
 Graduation
 Mechanical Engineer 
 
